@@ -1,4 +1,4 @@
-package day04.advancedpractice01;
+package day04.advancedpractice;
 
 public class Q05_DivideDigits {
         /*

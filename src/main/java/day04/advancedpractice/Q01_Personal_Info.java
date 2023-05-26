@@ -1,4 +1,4 @@
-package day04.advancedpractice01;
+package day04.advancedpractice;
 
 public class Q01_Personal_Info {
     public static void main(String[] args) {

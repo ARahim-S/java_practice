@@ -1,4 +1,4 @@
-package day04.advancedpractice01;
+package day04.advancedpractice;
 
 import java.text.DecimalFormat;
 
