@@ -1,9 +1,8 @@
 package day04.advancedpractice01;
 
-import javax.lang.model.element.NestingKind;
 import java.util.Scanner;
 
-public class Q05_Regex_StringManipulation {
+public class Q06_Regex_StringManipulation {
         /*
        Kullanıcıdan tek seferde alacağınız 2 kelimelik ad soyadı 2 ayrı kelimeye ayırınız.
        Ad ayrı, soyad ayrı sekilde ekrana yazdırınız.
